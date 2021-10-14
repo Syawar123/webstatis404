@@ -1,2 +1,6 @@
 # webstatis404
-Jika ingin menggunakan script ini mohon sertakan cr nya
+WEB STATIS
+Ini adalah web statis buatan saya sendiri
+Silahkan mencari inspirasi dari code saya, tapi saya melarang keras untuk meniru code
+Ingat!! mencari inspirasi bukan meniru code
+- TERIMA KASIH -
